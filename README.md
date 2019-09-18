@@ -1,2 +1,1 @@
-# Capture_Image_Using_Raspberry-Pi
-Program to capture the image continuously using webcam and RaspberryPi as a Micro-controller
+Code to capture the images continuously by using Raspberry Pi and webcamp and send it on Azure Blob Storage.
